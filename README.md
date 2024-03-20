@@ -25,7 +25,8 @@
 
 **[» Join beta test group](https://chat.whatsapp.com/Kk9FcrtGYzX1xzky4b1aCJ)**
 
-### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+### For Heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?url=https://github.com/Krafton-ai-rgb/QueenAmdi)
+
 
 **[» See heroku deploy instructions](https://amdaniwasa.com/#install)**
 
